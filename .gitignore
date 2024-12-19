@@ -42,3 +42,6 @@ Godeps/
 # Build directories
 bin/
 build/
+
+# Output files
+output/
